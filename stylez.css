@@ -50,7 +50,7 @@
 #image-name{
 
     display: grid;
-    grid-template-columns: 40% 60%;
+    grid-template-columns: 5rem 30%;
     margin-bottom: 1rem;
     
 }
@@ -58,6 +58,16 @@
 #name{
 
     margin-top: 3rem;
+    margin-left: 1rem;
+
+}
+
+#image{
+
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    
 
 }
 .button{
