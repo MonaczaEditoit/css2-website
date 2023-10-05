@@ -1,0 +1,65 @@
+.border-red{
+    border: 0.15rem solid red;
+}
+
+.border-red2{
+    border-left: 0.15rem solid red;
+    border-right: 0.15rem solid red;
+}
+
+#container{
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 1rem;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+}
+
+#container1{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+}
+
+#box1{
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+#box2{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+#left{
+    text-align: center;
+    margin-right: 1rem;
+}
+#center{
+    text-align: center;
+    margin-right: 1rem;
+}
+#right{
+    text-align: center;
+    margin-right: 1rem;
+}
+
+#image-name{
+
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin-bottom: 1rem;
+    
+}
+
+#name{
+
+    margin-top: 3rem;
+
+}
+.button{
+    color: pink;
+}
